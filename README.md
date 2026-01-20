@@ -119,7 +119,7 @@ Some advanced Markdown features (e.g., footnotes, task lists) may have limited s
 - Search within document
 - Recent files menu
 
-## Contribution Policy
+### Contribution Policy
 
 Feedback, bug reports, and suggestions are welcome.
 
