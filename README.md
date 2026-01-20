@@ -2,6 +2,24 @@
 
 A lightweight, standalone desktop Markdown viewer built with Python and Tkinter. It renders Markdown files with syntax-highlighted code blocks, tables, and clean styling using the `markdown2` and `tkinterweb` libraries.
 
+---
+
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 Perfect for quickly previewing Markdown documents without needing a browser or heavy IDE.
 
 ![Markdown Viewer Screenshot](https://via.placeholder.com/800x500.png?text=Markdown+Viewer+Pro+Screenshot)  
@@ -91,18 +109,6 @@ No editing capabilities – view-only
 Syntax highlighting is basic (via markdown2 extras)
 Some advanced Markdown features (e.g., footnotes, task lists) may have limited support
 
-### Contributing
-Contributions are welcome! Feel free to:
-- Open issues for bugs or feature requests
-- Submit pull requests with improvements
-- Suggest better styling or additional Markdown extras
-
-Please follow standard GitHub flow:
-
-- Fork the repo
-- Create a feature branch
-- Submit a PR with clear description
-
 ### Future Ideas / Roadmap
 
 - Add dark mode toggle
@@ -113,11 +119,26 @@ Please follow standard GitHub flow:
 - Search within document
 - Recent files menu
 
-### License
-This project is licensed under the MIT License – see the LICENSE file for details.
-(If you haven't added a LICENSE file yet, create one with MIT or your preferred license.)
-Acknowledgments
+## Contribution Policy
 
-markdown2 – Fast and complete Markdown implementation
-tkinterweb – HTML display widget for Tkinter
-Tkinter team and Python community
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
+
+### License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
